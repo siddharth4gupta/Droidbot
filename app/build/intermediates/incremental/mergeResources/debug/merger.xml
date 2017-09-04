@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="20.0.0" >
+        <source path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-hdpi\ic_stat_name.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-hdpi-v11\ic_stat_name.png"
+                qualifiers="hdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-hdpi-v9\ic_stat_name.png"
+                qualifiers="hdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-mdpi\ic_stat_name.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-mdpi-v11\ic_stat_name.png"
+                qualifiers="mdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-mdpi-v9\ic_stat_name.png"
+                qualifiers="mdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-xhdpi\ic_stat_name.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-xhdpi-v11\ic_stat_name.png"
+                qualifiers="xhdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_name"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-xhdpi-v9\ic_stat_name.png"
+                qualifiers="xhdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_btwrapper"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\layout\activity_btwrapper.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="login"
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\layout\login.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >DroidBot
+                </string>
+            </file>
+            <file
+                path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Light" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+            </file>
+        </source>
+        <source path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\build\generated\res\rs\debug" />
+        <source path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\build\generated\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Sidd\AndroidstudioProjects\DroidBot\app\src\debug\res" />
+    </dataSet>
+
+</merger>
