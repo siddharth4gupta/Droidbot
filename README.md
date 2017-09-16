@@ -1,6 +1,6 @@
 # Droidbot
 
-[![Alt text](bot1.jpg)]
+[![Alt text](bot1.JPG)]
 
 ## Voice Controlled Robot using an Android Device
 
